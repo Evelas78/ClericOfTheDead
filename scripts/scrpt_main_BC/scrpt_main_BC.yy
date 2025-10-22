@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrpt_main_BC",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrpt_main_BC",
+  "parent":{
+    "name":"battle",
+    "path":"folders/Scripts/controller_scripts/battle.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

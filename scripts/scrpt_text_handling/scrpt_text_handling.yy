@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrpt_text_handling",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrpt_text_handling",
+  "parent":{
+    "name":"general_handlers",
+    "path":"folders/Scripts/general_handlers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

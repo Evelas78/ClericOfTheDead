@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TEXT_MACROS",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TEXT_MACROS",
+  "parent":{
+    "name":"MACROS",
+    "path":"folders/Scripts/MACROS.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

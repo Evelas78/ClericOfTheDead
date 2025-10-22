@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrpt_walk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrpt_walk",
+  "parent":{
+    "name":"character_scripts",
+    "path":"folders/Scripts/character_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

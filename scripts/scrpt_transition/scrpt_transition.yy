@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrpt_transition",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrpt_transition",
+  "parent":{
+    "name":"controller_scripts",
+    "path":"folders/Scripts/controller_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

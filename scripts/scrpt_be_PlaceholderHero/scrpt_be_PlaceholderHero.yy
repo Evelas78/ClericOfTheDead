@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrpt_be_PlaceholderHero",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrpt_be_PlaceholderHero",
+  "parent":{
+    "name":"Hero",
+    "path":"folders/Scripts/battle_entity_scripts/Hero.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

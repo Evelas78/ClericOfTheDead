@@ -1,0 +1,1 @@
+runNonDirectionalAnimation(spr_Idle, float_Idle_SprSpd, true);

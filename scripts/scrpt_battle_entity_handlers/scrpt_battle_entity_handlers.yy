@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrpt_battle_entity_handlers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrpt_battle_entity_handlers",
+  "parent":{
+    "name":"battle_entity_scripts",
+    "path":"folders/Scripts/battle_entity_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

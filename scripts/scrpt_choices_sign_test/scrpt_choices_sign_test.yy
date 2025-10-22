@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrpt_choices_sign_test",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrpt_choices_sign_test",
+  "parent":{
+    "name":"test_room",
+    "path":"folders/Scripts/scrpt_signs/test_room.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrpt_be_PlaceholderEnemy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrpt_be_PlaceholderEnemy",
+  "parent":{
+    "name":"Enemy",
+    "path":"folders/Scripts/battle_entity_scripts/Enemy.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

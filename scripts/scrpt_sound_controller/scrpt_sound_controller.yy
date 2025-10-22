@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrpt_sound_controller",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrpt_sound_controller",
+  "parent":{
+    "name":"controller_scripts",
+    "path":"folders/Scripts/controller_scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

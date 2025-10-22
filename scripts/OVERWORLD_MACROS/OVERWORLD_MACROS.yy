@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"OVERWORLD_MACROS",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"OVERWORLD_MACROS",
+  "parent":{
+    "name":"MACROS",
+    "path":"folders/Scripts/MACROS.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
